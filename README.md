@@ -16,7 +16,6 @@
   - [Contact](#contact)
 
 </details>
-</br>
 
 Simple frontend written in for [NestPlaylistSync][nest-playlist-sync], written in Vue 2. Also a learning project / playground to get a better hang of Vue and Frontend development in general.
 
@@ -40,7 +39,7 @@ Make sure you have Node and Yarn installed, and follow the insallation instructi
    yarn install
    ```
 
-3. Navigate to [localhost:3030](http://localhost:3030) _(check your port config)_
+3. Navigate to [localhost:3030](http://localhost:3030) _(check your port config if it's not available)_
 
 ## Roadmap
 
